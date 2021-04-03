@@ -1,0 +1,49 @@
+html, body{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+#page-title{
+  color: darkgreen;
+  margin: 1px;
+  font-family: 'Merryweather Sans', sans-serif;
+  font-size: 30px;
+  padding: 1px;
+}
+
+#description-mc{
+  font-family: Helvetica;
+}
+
+hr{
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#description-mc{
+  margin-top: 2px;
+  font-size: 28px;
+}
+
+#image{
+  height: auto;
+  max-width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+#tribute-info{
+  padding: 20px;
+  font-family: Helvetica;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+footer{
+  background-color: lightgray;
+  font-size: 16px;
+  padding: 2px;
+}
